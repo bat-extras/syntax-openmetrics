@@ -1,2 +1,7 @@
-# syntax-prometheus-metrics
-A bat (Sublime Text) syntax for Prometheus metrics.
+# syntax-openmetrics
+A [bat](https://github.com/sharkdp/bat) (Sublime Text) syntax for OpenMetrics/Prometheus metrics.
+
+## Screenshot
+
+![screenshot](./screenshot.svg)
+
